@@ -7,10 +7,9 @@
 | 编号 | 项目 | 配置 |  
 |--|--|--|
 | 1 | CPU | i9 9900KF 8C16T|
-| 2 | RAM | 32GB|
-| 3 | GPU | RTX 2080 |
-| 4 | Video Memory | 8G |
-| 5 | Python | 3.7 |
+| 2 | RAM | 32GB|G
+| 3 | GPU | RTX 2080 8G|
+| 4 | Python | 3.7 |
 
 树莓派配置：
 
